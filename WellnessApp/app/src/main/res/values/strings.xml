@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Wellness App</string>
+    <string name="anatomyTitle">Word List</string>
+    <string name="healthLogo">Health Logo</string>
+    <string name="wellnessLogo">Wellness Logo</string>
+    <string name="anatomyHeader">Anatomy Header</string>
+    <string name="flashButton"><p>Flash Cards</p></string>
+    <string name="crossButton">Crossword</string>
+    <string name="pictureButton">Picture Story</string>
+    <string name="RnSButton">Reading and
+        Speaking</string>
+    <string name="AnatButton">Word List</string>
+    <string name="sign">Sign In</string>
+    <string name="welcome">Welcome to the Wellness App!</string>
+    <string name="select">Please select a game below</string>
+    <string name="gsbutton">Getting Started</string>
+    <string name="readSpeakPrompt">Enter text and hear how it\'s pronounced!</string>
+    <string name="sayItButton">Say it!</string>
+    <string name="pstorymenu">Picture Story Menu</string>
+    <string name="storySelector">Choose one of the stories to get started</string>
+    <string name="MariaStory">Maria\'s Story</string>
+    <string name="FatimaStory">Fatima\'s Story</string>
+    <string name="CrossMenu">Picture Crossword Menu</string>
+    <string name="CrossSelector">Choose one of the pictures to get started</string>
+    <string name="emailError">Please enter a valid email</string>
+    <string name="errorInvalidEmail">Email is not valid</string>
+    <string name="errorInvalidPassword">Please enter a valid password of 6 characters or more</string>
+    <string name="passwordError">Please enter a valid password</string>
+</resources>
